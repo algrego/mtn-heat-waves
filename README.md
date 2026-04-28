@@ -6,7 +6,12 @@
 ### Project Description 
 This project looks at data from the CDC's social vulnerability index (SVI), the MACAv2 Climate Data (futures and historical), and CDC county and census tract data to understand how climate change and socio-economic variables of ski town communities. This exploratory analysis looked at the regions around Aspen/Vail - Colorado, Big Sky - Montana, and Jackson Hole - Wyoming. 
 
+### DOI
+[![DOI](https://sandbox.zenodo.org/badge/1210815773.svg)](https://handle.test.datacite.org/10.5072/zenodo.494154)
+
+
 ### Data Sources
+
 
 #### Location Data
 CDC Census Tract Data 
